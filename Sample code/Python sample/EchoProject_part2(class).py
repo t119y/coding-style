@@ -1,5 +1,5 @@
 '''
-This program created a Graphical User Interface use Tkinter and search artist and that artist's familiarity score just like the first part of our homework 6.
+This program created a Graphical User Interface use Tkinter and search artist and that artist's familiarity score.
 
 Input:
      Ask user for the name of a song.
