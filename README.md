@@ -4,4 +4,4 @@ This is my sample code to demonstrate my coding style.
       - part of my undergoing pet social media APP code.
   2. Python sample
       - part of my Echo API code.
-      - facility location project.
+      - facility location project code.
